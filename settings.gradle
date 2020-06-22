@@ -1,0 +1,2 @@
+rootProject.name='My Droid Cafe'
+include ':app'
